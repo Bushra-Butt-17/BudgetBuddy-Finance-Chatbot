@@ -85,7 +85,7 @@ pip install -r requirements.txt
 ### Step 2: Process PDFs 📜 ➡️ 🧠  
    - Generate embeddings from the uploaded PDFs by running the `ingest_data.py` script:  
      ```bash
-     python ingest/ingest_data.py
+     python ingest.py
      ```
    - This step converts the financial data into **vector embeddings** stored in the `vectorstore/` directory.  
 
