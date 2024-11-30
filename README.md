@@ -95,7 +95,7 @@ Here’s how the project is organized:
 
 ### 1. **Clone the Repository** 🛠️
 ```bash
-git clone https://github.com/Bushra-Butt-17/BudgetBuddy.git
+git clone https://github.com/Bushra-Butt-17/BudgetBuddy-Finance-Chatbot.git
 cd BudgetBuddy
 ```
 
