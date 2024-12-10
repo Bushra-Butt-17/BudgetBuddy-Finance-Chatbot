@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/36eef1f6-8583-475d-a76e-653e894dad6c)
+<img src="https://github.com/user-attachments/assets/36eef1f6-8583-475d-a76e-653e894dad6c" alt="Example Image" style="width: 100%; height: auto;"/>
+
 ---
 # Budget Buddy - Your Personal Finance Chatbot 💸🤖
 
