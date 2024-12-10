@@ -1,4 +1,5 @@
-
+![image](https://github.com/user-attachments/assets/36eef1f6-8583-475d-a76e-653e894dad6c)
+---
 # Budget Buddy - Your Personal Finance Chatbot 💸🤖
 
 **Budget Buddy** is a finance-focused chatbot designed to help you manage your personal finances with ease. It uses advanced natural language processing (NLP) technologies, including **Chainlit**, **LLaMA**, and **Hugging Face Sentence Transformers**, to analyze your financial documents, answer budget-related questions, and provide actionable insights.
